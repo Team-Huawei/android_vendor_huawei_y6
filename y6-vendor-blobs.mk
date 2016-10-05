@@ -256,6 +256,9 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/y6/proprietary/vendor/lib/egl/libGLESv2_adreno.so:system/vendor/lib/egl/libGLESv2_adreno.so \
     vendor/huawei/y6/proprietary/vendor/lib/egl/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so \
     vendor/huawei/y6/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
+    vendor/huawei/y6/proprietary/vendor/lib/egl/libRBGLESv1_CM_adreno.so:system/vendor/lib/egl/libRBGLESv1_CM_adreno.so \
+    vendor/huawei/y6/proprietary/vendor/lib/egl/libRBEGL_adreno.so:system/vendor/lib/egl/libRBEGL_adreno.so \
+    vendor/huawei/y6/proprietary/vendor/lib/egl/libRBGLESv2_adreno.so:system/vendor/lib/egl/libRBGLESv2_adreno.so \
     vendor/huawei/y6/proprietary/vendor/lib/libmmjpeg.so:system/vendor/lib/libmmjpeg.so \
     vendor/huawei/y6/proprietary/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_scale_default_video.so:system/vendor/lib/libchromatix_mt9d015_sunny_p2m19a_scale_default_video.so \
     vendor/huawei/y6/proprietary/vendor/lib/libactuator_ov8858_foxconn_sc1102.so:system/vendor/lib/libactuator_ov8858_foxconn_sc1102.so \
